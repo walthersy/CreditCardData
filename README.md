@@ -1,6 +1,8 @@
 # Predicting default on credit card data
 
-In this small note notebook, I cover:
+Data from [UCI ML Archives](https://archive.ics.uci.edu/ml/machine-learning-databases/00350/default%20of%20credit%20card%20clients.xls)
+
+In this small notebook, I cover:
 - Simple data cleaning
 - Simple feature engineering
 - Data pipelining through scaling, PCA, and a machine learning model
